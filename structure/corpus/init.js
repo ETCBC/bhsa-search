@@ -1,0 +1,17 @@
+var corpusData = {}
+corpusData["texts"] = {}
+corpusData["texts"]["word"] = {}
+corpusData["texts"]["phrase"] = {}
+corpusData["texts"]["clause"] = {}
+corpusData["texts"]["sentence"] = {}
+corpusData["texts"]["verse"] = {}
+corpusData["texts"]["chapter"] = {}
+corpusData["texts"]["book"] = {}
+corpusData["posinfo"] = {}
+corpusData["posinfo"]["word"] = {}
+corpusData["posinfo"]["phrase"] = {}
+corpusData["posinfo"]["clause"] = {}
+corpusData["posinfo"]["sentence"] = {}
+corpusData["posinfo"]["verse"] = {}
+corpusData["posinfo"]["chapter"] = {}
+corpusData["posinfo"]["book"] = {}
